@@ -1,0 +1,7 @@
+langchain==1.0.5
+langchain-openrouter==0.2.8
+pydantic==2.12.3
+streamlit==1.50.0
+python-dotenv==1.1.1
+langsmith
+langchain-google-genai
